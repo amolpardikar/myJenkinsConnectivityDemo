@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-		Util.printMessage("Print from Utils!!!");
+		Util.printMessage("Print from Utils!!");
     }
 }
